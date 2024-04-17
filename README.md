@@ -1,2 +1,2 @@
 # neijuan1
-for learning C++
+for learning data structure
