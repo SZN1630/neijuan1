@@ -19,13 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp" />
+    <ClInclude Include="ks.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FileName.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2952ff41-87e8-4a2d-956d-f0a427a84769}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <ProjectGuid>{1acff52a-a5b1-479a-9a91-96365cc83043}</ProjectGuid>
+    <RootNamespace>Project221</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
